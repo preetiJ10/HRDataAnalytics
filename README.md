@@ -82,7 +82,7 @@ Compensation reviews and adjustments may help in retaining these employees.
 
 Attrition by Years at Company: Attrition spikes at the 1-2 year mark and around the 5-year mark suggest that specific retention strategies should be implemented at these critical junctures.
 
-Attrition by Job Role: Roles such as customer service and sales are experiencing higher turnover, pointing to possible job dissatisfaction or high-stress levels in these positions.
+Attrition by Job Role: Roles such as Laboratory Technician,Sales Executive and Research Scientist are experiencing higher turnover, pointing to possible job dissatisfaction or high-stress levels in these positions.
 
 Attrition by Age and Gender: Younger female employees are leaving at a higher rate, indicating a need for policies that address their specific needs and concerns.
 
